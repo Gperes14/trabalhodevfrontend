@@ -6,7 +6,7 @@ Este é um projeto web completo desenvolvido como trabalho acadêmico, focando n
 
 ## Estrutura do Projeto
 
-```
+
 projeto-web/
 ├── html/
 │   ├── index.html          # Página inicial
@@ -100,13 +100,6 @@ projeto-web/
 
 3. **Testar o Formulário**: Preencha o formulário de cadastro e veja a validação em ação
 
-## Validação W3C
-
-Todos os arquivos HTML foram validados conforme os padrões W3C HTML5:
-- ✓ Estrutura semântica correta
-- ✓ Atributos válidos
-- ✓ Hierarquia de títulos apropriada
-- ✓ Imagens com atributo `alt`
 
 ## Tecnologias Utilizadas
 
@@ -115,25 +108,10 @@ Todos os arquivos HTML foram validados conforme os padrões W3C HTML5:
 - **JavaScript**: Validação adicional do formulário
 - **Imagens**: JPEG otimizado
 
-## Requisitos Atendidos
 
-- ✓ Mínimo 3 páginas HTML com estrutura semântica completa
-- ✓ Hierarquia de títulos lógica e consistente
-- ✓ Imagens em todas as páginas
-- ✓ Página inicial com informações de contato
-- ✓ Página de projetos sociais (voluntariado e doações)
-- ✓ Página de cadastro com formulário complexo
-- ✓ Validação nativa HTML5
-- ✓ Agrupamento lógico de campos
-- ✓ Máscaras de input para CPF, telefone e CEP
-- ✓ Código fonte completo e organizado
-- ✓ Imagens otimizadas
-- ✓ Arquivos HTML validados (W3C)
 
-## Autor
 
-Desenvolvido como trabalho acadêmico de Fundamentos de Lançamento de Link da Web.
 
-## Data
 
-Outubro de 2024
+
+
